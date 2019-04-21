@@ -1,1 +1,1 @@
-# CG_Graphic_Pipeline
+# CG_Graphics_Pipeline
