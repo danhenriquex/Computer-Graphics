@@ -1,0 +1,5065 @@
+# depslib dependency file v1.0
+1556982534 source:c:\users\gabri\desktop\projeto_cg_opengl\display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl\display.h
+	<string>
+	<SDL2/SDL.h>
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1542325422 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\begin_code.h
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\close_code.h
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501500339 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1556982534 source:c:\users\gabri\desktop\projeto_cg_opengl\main.cpp
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdlib>
+	<GL/glew.h>
+	"display.h"
+	"object.h"
+	"objloader.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\types.h
+	<sys/types.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\defs.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\compiler\pushpack1.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\compiler\poppack1.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\matrix4x4.h
+	"vector3.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\quaternion.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\color4.inl
+	"color4.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\config.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\mesh.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\light.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\camera.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\material.inl
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<limits.h>
+	<stdint.h>
+	<string>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\assimp\include\assimp\postprocess.h
+	"types.h"
+
+1540997982 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1556985727 c:\users\gabri\desktop\projeto_cg_opengl\object.h
+	"objloader.h"
+	<vector>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<GL/glew.h>
+
+1556983750 c:\users\gabri\desktop\projeto_cg_opengl\objloader.h
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<cstdint>
+	<type_traits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\fwd.hpp
+	"detail/qualifier.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_precision.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\_swizzle.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\_swizzle_func.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_precision.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\vec4.hpp
+	"./ext/vector_bool4.hpp"
+	"./ext/vector_bool4_precision.hpp"
+	"./ext/vector_float4.hpp"
+	"./ext/vector_float4_precision.hpp"
+	"./ext/vector_double4.hpp"
+	"./ext/vector_double4_precision.hpp"
+	"./ext/vector_int4.hpp"
+	"./ext/vector_int4_precision.hpp"
+	"./ext/vector_uint4.hpp"
+	"./ext/vector_uint4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec4.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec4.inl
+	"compute_vector_relational.hpp"
+	"type_vec4_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec4_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_bool4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_float4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_double4_precision.hpp
+	"../detail/setup.hpp"
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_int4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\vector_uint4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat2x2.hpp
+	"./ext/matrix_double2x2.hpp"
+	"./ext/matrix_double2x2_precision.hpp"
+	"./ext/matrix_float2x2.hpp"
+	"./ext/matrix_float2x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x2.hpp
+	"type_vec2.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat2x3.hpp
+	"./ext/matrix_double2x3.hpp"
+	"./ext/matrix_double2x3_precision.hpp"
+	"./ext/matrix_float2x3.hpp"
+	"./ext/matrix_float2x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x3.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x3.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat2x4.hpp
+	"./ext/matrix_double2x4.hpp"
+	"./ext/matrix_double2x4_precision.hpp"
+	"./ext/matrix_float2x4.hpp"
+	"./ext/matrix_float2x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x4.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat2x4.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat3x2.hpp
+	"./ext/matrix_double3x2.hpp"
+	"./ext/matrix_double3x2_precision.hpp"
+	"./ext/matrix_float3x2.hpp"
+	"./ext/matrix_float3x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x2.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x2.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat3x3.hpp
+	"./ext/matrix_double3x3.hpp"
+	"./ext/matrix_double3x3_precision.hpp"
+	"./ext/matrix_float3x3.hpp"
+	"./ext/matrix_float3x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x3.hpp
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat3x4.hpp
+	"./ext/matrix_double3x4.hpp"
+	"./ext/matrix_double3x4_precision.hpp"
+	"./ext/matrix_float3x4.hpp"
+	"./ext/matrix_float3x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x4.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat3x4.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat4x2.hpp
+	"./ext/matrix_double4x2.hpp"
+	"./ext/matrix_double4x2_precision.hpp"
+	"./ext/matrix_float4x2.hpp"
+	"./ext/matrix_float4x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x2.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x2.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x2_precision.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat4x3.hpp
+	"./ext/matrix_double4x3.hpp"
+	"./ext/matrix_double4x3_precision.hpp"
+	"./ext/matrix_float4x3.hpp"
+	"./ext/matrix_float4x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x3.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x3.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\mat4x4.hpp
+	"./ext/matrix_double4x4.hpp"
+	"./ext/matrix_double4x4_precision.hpp"
+	"./ext/matrix_float4x4.hpp"
+	"./ext/matrix_float4x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x4.hpp
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_mat4x4_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"func_geometric_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec1.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_vec1.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_vector_relational.inl
+	"func_vector_relational_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_vector_relational_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\_vectorize.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\exponential.h
+	"platform.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\common.hpp
+	"detail/qualifier.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"compute_common.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\compute_common.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\common.h
+	"platform.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\geometric.h
+	"common.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\matrix.h
+	"geometric.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_double2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_float2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_trigonometric_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\packing.hpp
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float4.hpp"
+	"detail/func_packing.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"func_packing_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\type_half.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_packing_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\integer.hpp
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_integer.inl
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\simd\integer.h
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../ext/matrix_projection.hpp"
+	"../ext/matrix_clip_space.hpp"
+	"../ext/matrix_transform.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_projection.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_projection.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\gtc\constants.hpp
+	"../ext/scalar_constants.hpp"
+	"constants.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\scalar_constants.hpp
+	"../detail/setup.hpp"
+	"scalar_constants.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\scalar_constants.inl
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\gtc\constants.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_projection.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_clip_space.hpp
+	"../ext/scalar_constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"matrix_clip_space.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_clip_space.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_transform.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\ext\matrix_transform.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl\dependencies\glm\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1556985739 source:c:\users\gabri\desktop\projeto_cg_opengl\object.cpp
+	"object.h"
+	"SDLImage.h"
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl\sdlimage.h
+	<string>
+	"SDL.h"
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl\sdl.h
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+
+1556985646 source:c:\users\gabri\desktop\projeto_cg_opengl\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<iostream>
+	"objloader.h"
+
+1556982534 source:c:\users\gabri\desktop\projeto_cg_opengl\sdlimage.cpp
+	"SDLImage.h"
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL_image.h>
+
+1557265483 source:c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
+1556982534 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\display.h
+	<string>
+	<SDL2/SDL.h>
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1542325422 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\begin_code.h
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\close_code.h
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501500339 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1557274790 source:c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\main.cpp
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdlib>
+	<GL/glew.h>
+	"display.h"
+	"object.h"
+	"objloader.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\types.h
+	<sys/types.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\defs.h
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\pushpack1.h
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\poppack1.h
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix4x4.h
+	"vector3.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\quaternion.h
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\color4.inl
+	"color4.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\config.h
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\mesh.h
+	"types.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\light.h
+	"types.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\camera.h
+	"types.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\material.inl
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<limits.h>
+	<stdint.h>
+	<string>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467998991 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\postprocess.h
+	"types.h"
+
+1540997982 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1557193106 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\object.h
+	"objloader.h"
+	<vector>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<GL/glew.h>
+
+1556983750 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\objloader.h
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<cstdint>
+	<type_traits>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\fwd.hpp
+	"detail/qualifier.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_precision.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_swizzle.hpp
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_swizzle_func.hpp
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_precision.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec4.hpp
+	"./ext/vector_bool4.hpp"
+	"./ext/vector_bool4_precision.hpp"
+	"./ext/vector_float4.hpp"
+	"./ext/vector_float4_precision.hpp"
+	"./ext/vector_double4.hpp"
+	"./ext/vector_double4_precision.hpp"
+	"./ext/vector_int4.hpp"
+	"./ext/vector_int4_precision.hpp"
+	"./ext/vector_uint4.hpp"
+	"./ext/vector_uint4_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4.inl
+	"compute_vector_relational.hpp"
+	"type_vec4_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4_simd.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double4_precision.hpp
+	"../detail/setup.hpp"
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x2.hpp
+	"./ext/matrix_double2x2.hpp"
+	"./ext/matrix_double2x2_precision.hpp"
+	"./ext/matrix_float2x2.hpp"
+	"./ext/matrix_float2x2_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x2.hpp
+	"type_vec2.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x3.hpp
+	"./ext/matrix_double2x3.hpp"
+	"./ext/matrix_double2x3_precision.hpp"
+	"./ext/matrix_float2x3.hpp"
+	"./ext/matrix_float2x3_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x3.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x3.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x4.hpp
+	"./ext/matrix_double2x4.hpp"
+	"./ext/matrix_double2x4_precision.hpp"
+	"./ext/matrix_float2x4.hpp"
+	"./ext/matrix_float2x4_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x4.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x4.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x2.hpp
+	"./ext/matrix_double3x2.hpp"
+	"./ext/matrix_double3x2_precision.hpp"
+	"./ext/matrix_float3x2.hpp"
+	"./ext/matrix_float3x2_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x2.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x2.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x3.hpp
+	"./ext/matrix_double3x3.hpp"
+	"./ext/matrix_double3x3_precision.hpp"
+	"./ext/matrix_float3x3.hpp"
+	"./ext/matrix_float3x3_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x3.hpp
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x4.hpp
+	"./ext/matrix_double3x4.hpp"
+	"./ext/matrix_double3x4_precision.hpp"
+	"./ext/matrix_float3x4.hpp"
+	"./ext/matrix_float3x4_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x4.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x4.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x2.hpp
+	"./ext/matrix_double4x2.hpp"
+	"./ext/matrix_double4x2_precision.hpp"
+	"./ext/matrix_float4x2.hpp"
+	"./ext/matrix_float4x2_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x2.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x2.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x2_precision.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x3.hpp
+	"./ext/matrix_double4x3.hpp"
+	"./ext/matrix_double4x3_precision.hpp"
+	"./ext/matrix_float4x3.hpp"
+	"./ext/matrix_float4x3_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x3.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x3.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x4.hpp
+	"./ext/matrix_double4x4.hpp"
+	"./ext/matrix_double4x4_precision.hpp"
+	"./ext/matrix_float4x4.hpp"
+	"./ext/matrix_float4x4_precision.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4.hpp
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4_simd.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"func_geometric_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec1.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec1.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_vector_relational.inl
+	"func_vector_relational_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_vector_relational_simd.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_vectorize.hpp
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\exponential.h
+	"platform.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\common.hpp
+	"detail/qualifier.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"compute_common.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\compute_common.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\common.h
+	"platform.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\geometric.h
+	"common.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\matrix.h
+	"geometric.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_trigonometric_simd.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\packing.hpp
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float4.hpp"
+	"detail/func_packing.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"func_packing_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_half.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_packing_simd.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\integer.hpp
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_integer.inl
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\integer.h
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../ext/matrix_projection.hpp"
+	"../ext/matrix_clip_space.hpp"
+	"../ext/matrix_transform.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_projection.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_projection.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\constants.hpp
+	"../ext/scalar_constants.hpp"
+	"constants.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\scalar_constants.hpp
+	"../detail/setup.hpp"
+	"scalar_constants.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\scalar_constants.inl
+	<limits>
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\constants.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_projection.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_clip_space.hpp
+	"../ext/scalar_constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"matrix_clip_space.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_clip_space.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_transform.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_transform.inl
+
+1536009327 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1557271531 source:c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\object.cpp
+	"object.h"
+	"SDLImage.h"
+
+1556982534 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\sdlimage.h
+	<string>
+	"SDL.h"
+
+1556982534 c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\sdl.h
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+
+1557010109 source:c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<iostream>
+	"objloader.h"
+
+1556982534 source:c:\users\arthur\desktop\projeto_cg_opengl(textura-funcionando)\sdlimage.cpp
+	"SDLImage.h"
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL_image.h>
+
+1557265483 source:c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\display.h
+	<string>
+	<SDL2/SDL.h>
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1542325422 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\begin_code.h
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\close_code.h
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501500339 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1557271531 source:c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\object.cpp
+	"object.h"
+	"SDLImage.h"
+
+1557193106 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\object.h
+	"objloader.h"
+	<vector>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<GL/glew.h>
+
+1556983750 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\objloader.h
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<cstdint>
+	<type_traits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\fwd.hpp
+	"detail/qualifier.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_precision.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_swizzle.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_swizzle_func.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_precision.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vec4.hpp
+	"./ext/vector_bool4.hpp"
+	"./ext/vector_bool4_precision.hpp"
+	"./ext/vector_float4.hpp"
+	"./ext/vector_float4_precision.hpp"
+	"./ext/vector_double4.hpp"
+	"./ext/vector_double4_precision.hpp"
+	"./ext/vector_int4.hpp"
+	"./ext/vector_int4_precision.hpp"
+	"./ext/vector_uint4.hpp"
+	"./ext/vector_uint4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4.inl
+	"compute_vector_relational.hpp"
+	"type_vec4_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec4_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_bool4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_float4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_double4_precision.hpp
+	"../detail/setup.hpp"
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_int4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\vector_uint4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x2.hpp
+	"./ext/matrix_double2x2.hpp"
+	"./ext/matrix_double2x2_precision.hpp"
+	"./ext/matrix_float2x2.hpp"
+	"./ext/matrix_float2x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x2.hpp
+	"type_vec2.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x3.hpp
+	"./ext/matrix_double2x3.hpp"
+	"./ext/matrix_double2x3_precision.hpp"
+	"./ext/matrix_float2x3.hpp"
+	"./ext/matrix_float2x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x3.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x3.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat2x4.hpp
+	"./ext/matrix_double2x4.hpp"
+	"./ext/matrix_double2x4_precision.hpp"
+	"./ext/matrix_float2x4.hpp"
+	"./ext/matrix_float2x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x4.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat2x4.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x2.hpp
+	"./ext/matrix_double3x2.hpp"
+	"./ext/matrix_double3x2_precision.hpp"
+	"./ext/matrix_float3x2.hpp"
+	"./ext/matrix_float3x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x2.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x2.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x3.hpp
+	"./ext/matrix_double3x3.hpp"
+	"./ext/matrix_double3x3_precision.hpp"
+	"./ext/matrix_float3x3.hpp"
+	"./ext/matrix_float3x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x3.hpp
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat3x4.hpp
+	"./ext/matrix_double3x4.hpp"
+	"./ext/matrix_double3x4_precision.hpp"
+	"./ext/matrix_float3x4.hpp"
+	"./ext/matrix_float3x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x4.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat3x4.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x2.hpp
+	"./ext/matrix_double4x2.hpp"
+	"./ext/matrix_double4x2_precision.hpp"
+	"./ext/matrix_float4x2.hpp"
+	"./ext/matrix_float4x2_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x2.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x2.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x2_precision.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x3.hpp
+	"./ext/matrix_double4x3.hpp"
+	"./ext/matrix_double4x3_precision.hpp"
+	"./ext/matrix_float4x3.hpp"
+	"./ext/matrix_float4x3_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x3.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x3.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\mat4x4.hpp
+	"./ext/matrix_double4x4.hpp"
+	"./ext/matrix_double4x4_precision.hpp"
+	"./ext/matrix_float4x4.hpp"
+	"./ext/matrix_float4x4_precision.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4.hpp
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_mat4x4_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"func_geometric_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec1.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_vec1.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_vector_relational.inl
+	"func_vector_relational_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_vector_relational_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\_vectorize.hpp
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\exponential.h
+	"platform.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\common.hpp
+	"detail/qualifier.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"compute_common.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\compute_common.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\common.h
+	"platform.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\geometric.h
+	"common.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\matrix.h
+	"geometric.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_double2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_float2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_trigonometric_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\packing.hpp
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float4.hpp"
+	"detail/func_packing.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"func_packing_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\type_half.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_packing_simd.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\integer.hpp
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_integer.inl
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\simd\integer.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\types.h
+	<sys/types.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\defs.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\pushpack1.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\poppack1.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix4x4.h
+	"vector3.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\quaternion.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\color4.inl
+	"color4.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\config.h
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\mesh.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\light.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\camera.h
+	"types.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\material.inl
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<limits.h>
+	<stdint.h>
+	<string>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467998991 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\assimp\include\assimp\postprocess.h
+	"types.h"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../ext/matrix_projection.hpp"
+	"../ext/matrix_clip_space.hpp"
+	"../ext/matrix_transform.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_projection.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_projection.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\constants.hpp
+	"../ext/scalar_constants.hpp"
+	"constants.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\scalar_constants.hpp
+	"../detail/setup.hpp"
+	"scalar_constants.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\scalar_constants.inl
+	<limits>
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\constants.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_projection.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_clip_space.hpp
+	"../ext/scalar_constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"matrix_clip_space.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_clip_space.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_transform.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\ext\matrix_transform.inl
+
+1536009327 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\glm\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\sdlimage.h
+	<string>
+	"SDL.h"
+
+1556982534 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\sdl.h
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+
+1557010109 source:c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<iostream>
+	"objloader.h"
+
+1556982534 source:c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\sdlimage.cpp
+	"SDLImage.h"
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL_image.h>
+
+1540997982 c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\dependencies\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1557287699 source:c:\users\gabri\desktop\projeto_cg_opengl(textura-funcionando)(1)\projeto_cg_opengl(textura-funcionando)\main.cpp
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdlib>
+	<GL/glew.h>
+	"display.h"
+	"object.h"
+	"objloader.h"
+
+1557265483 source:c:\users\daniel santana\desktop\all\cg\final_project_cg\display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
+1556982534 c:\users\daniel santana\desktop\all\cg\final_project_cg\display.h
+	<string>
+	<SDL2/SDL.h>
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1542325422 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\begin_code.h
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\close_code.h
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998442 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1501500339 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1557287699 source:c:\users\daniel santana\desktop\all\cg\final_project_cg\main.cpp
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdlib>
+	<GL/glew.h>
+	"display.h"
+	"object.h"
+	"objloader.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\types.h
+	<sys/types.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\defs.h
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\compiler\pushpack1.h
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\compiler\poppack1.h
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\matrix4x4.h
+	"vector3.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\quaternion.h
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\color4.inl
+	"color4.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\config.h
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\mesh.h
+	"types.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\light.h
+	"types.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\camera.h
+	"types.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\material.inl
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<limits.h>
+	<stdint.h>
+	<string>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467998991 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\assimp\include\assimp\postprocess.h
+	"types.h"
+
+1540997982 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1557193106 c:\users\daniel santana\desktop\all\cg\final_project_cg\object.h
+	"objloader.h"
+	<vector>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<GL/glew.h>
+
+1556983750 c:\users\daniel santana\desktop\all\cg\final_project_cg\objloader.h
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<cstdint>
+	<type_traits>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\fwd.hpp
+	"detail/qualifier.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_precision.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\_swizzle.hpp
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\_swizzle_func.hpp
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_precision.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\vec4.hpp
+	"./ext/vector_bool4.hpp"
+	"./ext/vector_bool4_precision.hpp"
+	"./ext/vector_float4.hpp"
+	"./ext/vector_float4_precision.hpp"
+	"./ext/vector_double4.hpp"
+	"./ext/vector_double4_precision.hpp"
+	"./ext/vector_int4.hpp"
+	"./ext/vector_int4_precision.hpp"
+	"./ext/vector_uint4.hpp"
+	"./ext/vector_uint4_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec4.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec4.inl
+	"compute_vector_relational.hpp"
+	"type_vec4_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec4_simd.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_bool4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_float4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_double4_precision.hpp
+	"../detail/setup.hpp"
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_int4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint4.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\vector_uint4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat2x2.hpp
+	"./ext/matrix_double2x2.hpp"
+	"./ext/matrix_double2x2_precision.hpp"
+	"./ext/matrix_float2x2.hpp"
+	"./ext/matrix_float2x2_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x2.hpp
+	"type_vec2.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat2x3.hpp
+	"./ext/matrix_double2x3.hpp"
+	"./ext/matrix_double2x3_precision.hpp"
+	"./ext/matrix_float2x3.hpp"
+	"./ext/matrix_float2x3_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x3.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x3.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat2x4.hpp
+	"./ext/matrix_double2x4.hpp"
+	"./ext/matrix_double2x4_precision.hpp"
+	"./ext/matrix_float2x4.hpp"
+	"./ext/matrix_float2x4_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x4.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat2x4.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat3x2.hpp
+	"./ext/matrix_double3x2.hpp"
+	"./ext/matrix_double3x2_precision.hpp"
+	"./ext/matrix_float3x2.hpp"
+	"./ext/matrix_float3x2_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x2.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x2.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat3x3.hpp
+	"./ext/matrix_double3x3.hpp"
+	"./ext/matrix_double3x3_precision.hpp"
+	"./ext/matrix_float3x3.hpp"
+	"./ext/matrix_float3x3_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x3.hpp
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat3x4.hpp
+	"./ext/matrix_double3x4.hpp"
+	"./ext/matrix_double3x4_precision.hpp"
+	"./ext/matrix_float3x4.hpp"
+	"./ext/matrix_float3x4_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x4.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat3x4.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat4x2.hpp
+	"./ext/matrix_double4x2.hpp"
+	"./ext/matrix_double4x2_precision.hpp"
+	"./ext/matrix_float4x2.hpp"
+	"./ext/matrix_float4x2_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x2.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x2.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x2_precision.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat4x3.hpp
+	"./ext/matrix_double4x3.hpp"
+	"./ext/matrix_double4x3_precision.hpp"
+	"./ext/matrix_float4x3.hpp"
+	"./ext/matrix_float4x3_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x3.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x3.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\mat4x4.hpp
+	"./ext/matrix_double4x4.hpp"
+	"./ext/matrix_double4x4_precision.hpp"
+	"./ext/matrix_float4x4.hpp"
+	"./ext/matrix_float4x4_precision.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x4.hpp
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_mat4x4_simd.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"func_geometric_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec1.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_vec1.inl
+	"./compute_vector_relational.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_vector_relational.inl
+	"func_vector_relational_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_vector_relational_simd.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\_vectorize.hpp
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\exponential.h
+	"platform.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\common.hpp
+	"detail/qualifier.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"compute_common.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\compute_common.hpp
+	"setup.hpp"
+	<limits>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\common.h
+	"platform.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\geometric.h
+	"common.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\matrix.h
+	"geometric.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_double2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_float2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_trigonometric_simd.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\packing.hpp
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float4.hpp"
+	"detail/func_packing.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"func_packing_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\type_half.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_packing_simd.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\integer.hpp
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_integer.inl
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\simd\integer.h
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../ext/matrix_projection.hpp"
+	"../ext/matrix_clip_space.hpp"
+	"../ext/matrix_transform.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_projection.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_projection.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\gtc\constants.hpp
+	"../ext/scalar_constants.hpp"
+	"constants.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\scalar_constants.hpp
+	"../detail/setup.hpp"
+	"scalar_constants.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\scalar_constants.inl
+	<limits>
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\gtc\constants.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_projection.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_clip_space.hpp
+	"../ext/scalar_constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"matrix_clip_space.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_clip_space.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_transform.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_transform.inl"
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\ext\matrix_transform.inl
+
+1536009327 c:\users\daniel santana\desktop\all\cg\final_project_cg\dependencies\glm\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1557271531 source:c:\users\daniel santana\desktop\all\cg\final_project_cg\object.cpp
+	"object.h"
+	"SDLImage.h"
+
+1556982534 c:\users\daniel santana\desktop\all\cg\final_project_cg\sdlimage.h
+	<string>
+	"SDL.h"
+
+1556982534 c:\users\daniel santana\desktop\all\cg\final_project_cg\sdl.h
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL.h>
+
+1557010109 source:c:\users\daniel santana\desktop\all\cg\final_project_cg\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<iostream>
+	"objloader.h"
+
+1556982534 source:c:\users\daniel santana\desktop\all\cg\final_project_cg\sdlimage.cpp
+	"SDLImage.h"
+	<iostream>
+	<cstdlib>
+	<SDL2/SDL_image.h>
+
